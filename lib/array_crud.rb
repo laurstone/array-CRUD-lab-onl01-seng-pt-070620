@@ -36,7 +36,7 @@ end
 
 def retrieve_first_element_from_array(array)
   create_an_array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  create_an_array[5]
+  create_an_array[0]
   
 end
 

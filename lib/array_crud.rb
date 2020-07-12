@@ -42,4 +42,7 @@ end
 
 def retrieve_last_element_from_array(array)
   
+  create_an_array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  create_an_array[5]
+  
 end
